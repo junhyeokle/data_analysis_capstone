@@ -100,3 +100,4 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 - 2D-CNN 서버 의존 구조이나 재시도/장애 대응 로직 없음
 - confidence 임계값 0.6은 추가적인 데이터 기반 검증 필요
 # data_analysis_capstone
+# data_analysis_capstone
